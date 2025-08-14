@@ -106,7 +106,8 @@ About
 A fast and live subdomain checker with CLI output.
 
 © 2025 GitHub, Inc.
-text### Notes:
+text
+### Notes:
 - **Structure and Tone**: The content is organized with clear headings, concise descriptions, and a professional tone suitable for a GitHub repository.
 - **Screenshot Reference**: The screenshot is referenced with a placeholder (`screenshot.png`). Ensure the actual screenshot file is in the repository, or update the filename/path accordingly.
 - **Badges**: Included badges for license, Python version, and downloads to enhance professionalism.
