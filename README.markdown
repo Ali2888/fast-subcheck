@@ -1,6 +1,4 @@
-Below is a polished, professional, and well-structured English version of the README.md file for the fast-subcheck project. The content has been refined for clarity, conciseness, and professionalism while maintaining all key information. I've also incorporated the screenshot reference, assuming it exists in the repository as mentioned. If you need the file uploaded to a specific service or have additional details, let me know!
-
-markdown# fast-subcheck: Fast Subdomain Checker
+# fast-subcheck: Fast Subdomain Checker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
