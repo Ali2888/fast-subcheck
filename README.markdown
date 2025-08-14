@@ -79,7 +79,7 @@ Custom Configuration
 bashpython subcheck.py -d example.com -w wordlist.txt -o results.txt --threads 20 --timeout 10
 Screenshot
 Below is a screenshot of the CLI interface showcasing the progress bar and live statistics:
-<img src="screenshot.png" alt="CLI Screenshot">
+<img src="Screenshot.png" alt="CLI Screenshot">
 Note: If the screenshot is unavailable in the repository, the CLI features a colorful progress bar and statistical table powered by the rich library.
 Contributing
 Contributions are welcome! To contribute:
