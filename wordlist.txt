@@ -1,0 +1,11 @@
+www
+mail
+blog
+shop
+accounts
+calendar
+drive
+maps
+news
+docs
+admin
